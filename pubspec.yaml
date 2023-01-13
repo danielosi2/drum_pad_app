@@ -1,0 +1,28 @@
+name: launch_pad
+description: A launch pad app started with Sagnik Bhattacharya and Paulina Knop.
+publish_to: 'none'
+version: 1.0.0+1
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  audioplayers: ^1.0.1
+  google_fonts: ^3.0.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^2.0.1
+
+  flutter_app_name: ^0.1.1
+flutter_app_name:
+  name: "LaunchPad"
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/
