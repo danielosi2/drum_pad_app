@@ -1,16 +1,5 @@
 # launch_pad
 
-A launch pad app started with Sagnik Bhattacharya and Paulina Knop.
+A launch pad app with multiple reusable container widget that pass sound and image arguments
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_1673901966](https://user-images.githubusercontent.com/90054585/212763470-3bd63390-553e-49f6-9b87-6e3af494f04a.png)
